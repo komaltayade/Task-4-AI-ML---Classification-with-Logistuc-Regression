@@ -1,1 +1,1 @@
-# Task-4-AI-ML---Classification-with-Logistuc-Regression
+# Task-4: AI & ML - Classification-with-Logistic Regression
